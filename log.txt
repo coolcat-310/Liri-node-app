@@ -1,0 +1,29 @@
+
+-------------------
+Tweet:	I just created  a twitter account for this project
+Tweet:	This is not an appropriate platform to deliver presidential messages.
+Tweet:	Omar is a great teacher. His lectures are lucid and entertaining.
+-------------------
+-------------------
+Artist:	Alabama Shakes
+Song:	Gimme All Your Love
+URL:	https://p.scdn.co/mp3-preview/0f94bdd75bd097018ae443a3db6757806875e2c7?cid=null
+Album:	Sound & Color
+---------------------
+-------------------
+Title:	Titanic
+Date:	Fri Dec 19 1997 00:00:00 GMT-0800 (PST)
+Movie Rating:	7
+Country origin:	USA
+Language:	undefined
+Plot:	84 years later, a 101-year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fiancé, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th, 1912 at 2:20 in the morning.
+Cast:	Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+Rotten Rating:	.
+URL:	https://www.imdb.com/title/tt0120338
+---------------------
+-------------------
+Artist:	Backstreet Boys
+Song:	I Want It That Way
+URL:	https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+Album:	The Hits--Chapter One
+---------------------
